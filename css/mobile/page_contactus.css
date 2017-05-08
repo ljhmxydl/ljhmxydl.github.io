@@ -1,0 +1,24 @@
+/****************************************
+CONTACTUS---------关于杏缘样式   2017.5.5 ljh
+****************************************/
+
+.contactus_box2 .content{
+    width: 100%;
+}
+
+.contactus_box2 .left {
+    min-height: 430px;
+    width: 100%;
+    float: none;
+}
+
+.Obr_us{
+    display: none;
+}
+
+.contactus_box2 .right {
+    width: 100%;
+    float: none;
+    padding: 10px;
+}
+

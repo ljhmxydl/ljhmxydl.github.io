@@ -1,0 +1,19 @@
+/****************************************
+PARTNERS---------合作机构样式    2017.5.5 ljh
+****************************************/
+
+
+.partners_box2 .content{
+    width: 100%;
+}
+
+.partners_box2 .content img{
+    width: 100%;
+    float: none;
+}
+
+.partner_intro{
+    width: 100%;
+    float: none;
+    padding-top: 5px;
+}

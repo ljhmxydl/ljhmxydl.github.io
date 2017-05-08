@@ -1,0 +1,33 @@
+/****************************************
+TEAM---------合作机构样式    2017.5.5 ljh
+****************************************/
+
+.team_box .content {
+    width: 100%;
+    text-align: center;
+}
+
+.team_box .team_img{
+    width: 70%;
+    float: none;
+}
+
+.team_intro {
+    width: 100%;
+    float: none;
+    padding: 5px;
+}
+
+.team_intro .title{
+    text-align: left;
+}
+
+.team_intro .name{
+    text-align: center;
+}
+
+.team_intro p{
+    line-height: 22px;
+    margin: 5px 0;
+    text-align: left;
+}

@@ -1,0 +1,63 @@
+/****************************************
+HEADER---------头部区样式
+****************************************/
+
+#header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    max-width: 1920px;
+    height: auto;
+    padding: 10px;
+    background-color: #000;
+    opacity: 0.7;
+    z-index: 100;
+    border-radius: 0;
+    border: none;
+}
+
+#header .content {
+    width: 948px;
+    margin: 0 auto;
+}
+
+#header .logo {
+    float: left;
+}
+
+#header .logo a {
+    float: left;
+}
+
+#header .logo a img {
+    width: 157px;
+    height: 48px;
+}
+
+/*导航菜单*/
+#nav {
+    float: right;
+    width: auto;
+    height: auto;
+    margin-bottom: 0;
+}
+
+#nav li {
+    float: left;
+    width: 90px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    font-size: 12pt;
+
+}
+
+#nav li a {
+    padding: 1px 4px 2px 4px;
+    color: #fff;
+}
+
+#nav li a:hover {
+    color: #5cca5c;
+}
